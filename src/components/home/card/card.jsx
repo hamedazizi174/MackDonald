@@ -3,7 +3,11 @@ export default function Card({ food }) {
   return (
     <div className="bg-[#def3fd] rounded-lg flex gap-4 p-4 w-96">
       <div>
-        <img src={require(`../../../assets/images/${food?.src}`)} alt="food-image" className="rounded-md"/>
+        <img
+          src={require(`../../../assets/images/${food?.src}`)}
+          alt="food-image"
+          className="rounded-md"
+        />
       </div>
       <div className="w-full">
         <h2>{food?.name}</h2>
