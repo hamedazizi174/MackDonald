@@ -1,62 +1,62 @@
-const dataArr = [
+export const dataArr = [
   {
     id: 1,
     name: "همبرگر مخصوص",
     price: "10000",
-    src: "https://localhost:3000/src/assets/images/special hamburger.jpg",
+    src: "special hamberger.jpg",
   },
   {
     id: 2,
     name: "همبرگر معمولی",
     price: "8000",
-    src: "https://localhost:3000/src/assets/images/hamburger.jpg",
+    src: "hamberger.jpg",
   },
   {
     id: 3,
     name: "همبرگر مخصوص قارچ و پنیر",
     price: "20000",
-    src: "https://localhost:3000/src/assets/images/mashroom special hamburger.jpg",
+    src: "mashroom special hamberger.jpg",
   },
   {
     id: 4,
     name: "همبرگر معمولی با قارچ و پنیر",
     price: "10000",
-    src: "https://localhost:3000/src/assets/images/mashroom hamburger.jpg",
+    src: "mashroom hamberger.jpg",
   },
   {
     id: 5,
     name: "سیب زمینی سرخ کرده",
     price: "10000",
-    src: "https://localhost:3000/src/assets/images/fried potatoes.jpg",
+    src: "fried potatoes.jpg",
   },
   {
     id: 6,
     name: "سیب زمینی سرخ کرده ویژه",
     price: "25000",
-    src: "https://localhost:3000/src/assets/images/special fried potatoes.jpg",
+    src: "special fried potatoes.jpg",
   },
   {
     id: 7,
     name: "نوشابه",
     price: "1000",
-    src: "https://localhost:3000/src/assets/images/soda.jpg",
+    src: "soda.jpg",
   },
   {
     id: 8,
     name: "نوشابه رژیمی",
     price: "2000",
-    src: "https://localhost:3000/src/assets/images/no fat soda.jpg",
+    src: "no fat soda.jpg",
   },
   {
     id: 9,
     name: "ماست موسیر",
     price: "3000",
-    src: "https://localhost:3000/src/assets/images/yogurt.jpg",
+    src: "yogurt.jpg",
   },
   {
     id: 10,
     name: "سالاد",
     price: "4000",
-    src: "https://localhost:3000/src/assets/images/salad.jpg",
+    src: "salad.jpg",
   },
 ];
